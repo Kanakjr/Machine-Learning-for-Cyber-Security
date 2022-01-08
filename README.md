@@ -10,5 +10,8 @@ Github:   https://github.com/kanakjr
 
 ---
 
-Google colab: https://colab.research.google.com/notebooks/
+Access this notebook on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kanakjr/Machine-Learning-for-Cyber-Security/HEAD)
 
+Binder URL: https://mybinder.org/v2/gh/Kanakjr/Machine-Learning-for-Cyber-Security/HEAD
+
+Alternatively use Google colab: https://colab.research.google.com/notebooks/
