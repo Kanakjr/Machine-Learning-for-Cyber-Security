@@ -22,6 +22,8 @@ Teachable machines: https://teachablemachine.withgoogle.com/train/image
 
 Covid Dataset used: https://drive.google.com/drive/folders/1Of5mUb08VvKF1VeYAVqR5Tr_tvw-lxVB?usp=sharing
 
+Toy/Wallet/Earbuds Example: https://testml.kanakjr.in/
+
 ---
 
 ## Useful Resources
